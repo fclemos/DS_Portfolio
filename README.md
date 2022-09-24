@@ -18,7 +18,7 @@ My credentials include a Business Administration with Foreign Trade Bachelor and
 * [Medium](https://medium.com/@fclemos)
 
 
-## Projetos:
+## Projects:
 Veja os artigos e tutoriais publicados por Fernanda:
 
 * **Indústria 4.0 e os desafios no setor Logístico:** https://bit.ly/2Zx4Eew
